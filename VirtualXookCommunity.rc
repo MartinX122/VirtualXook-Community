@@ -1,0 +1,10 @@
+
+
+
+/*VirtualXookCommunity*/
+
+#ifdef _WIN64
+	#define WX_CPU_AMD64
+#endif
+
+#include "wx/msw/wx.rc"
