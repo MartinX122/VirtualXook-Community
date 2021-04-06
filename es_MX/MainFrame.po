@@ -1,0 +1,23 @@
+# VirtualXook Community
+# Copyright (C) Hector Martin Ruiz Rosas - License MIT
+# Github.com\VirtualXookCommunity
+# ES-MX
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-05 16:46+0000\n"
+"PO-Revision-Date: 2021-04-05 16:46+0000\n"
+"Last-Translator: HECTOR MARTIN RUIZ ROSAS <MARTIN.122@OUTLOOK:COM>\n"
+"Language-Team: HECTOR MARTIN RUIZ ROSAS <MARTIN.122@OUTLOOK:COM>\n"
+"MIME-Version: 0.0.1\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../MainFrame.cpp:59
+msgid "&File"
+msgstr "&Archivo"
+
+#: ../MainFrame.cpp:60
+msgid "&View"
+msgstr "&Ver"
